@@ -4,10 +4,10 @@ Full-stack web application with React frontend and Spring Boot backend.
 
 ## Project Structure
 
-```
+```text
 tailor/
-├── backend/          # Spring Boot application
-└── frontend/         # React application
+|-- backend/   # Spring Boot application
+`-- frontend/  # React application
 ```
 
 ## Backend (Spring Boot)
